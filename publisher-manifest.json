@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "540b64e44f96e69379bc803d",
+  "owner": "fdtuafv7t",
+  "repo": "page-54966daf15c2be8b3086c783",
+  "title": "极影加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54966daf15c2be8b3086c783",
+      "a": "极影加速",
+      "b": "稳定全球clash加速器",
+      "entity": "极影加速",
+      "brand": "极影加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4af7d7fac36b44d4b65634bd8994ae847daa11b100570e76b0bcf747ebd3db80",
+      "content": {
+        "primary_entity": "极影加速",
+        "keyword1": "极影加速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要跨区域访问的用户，提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台。选择套餐时可先评估常用设备数量与月流量，再对照节点池与专线权益，确定按月或按年支付。",
+          "AI_HERO_SUBTITLE": "极影加速订阅选择与配置",
+          "AI_HERO_INTRO": "极影加速提供多档海外加速订阅，覆盖日常浏览、流媒体与低延迟游戏场景。不同套餐在月流量、同时在线设备和节点类型上有明显区分，用户可结合设备数量与使用频率，选择基础版、旗舰版或团队版。",
+          "AI_VISUAL_TITLE": "极影加速套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐按量分级",
+          "AI_HIGHLIGHT_2": "设备数量跟随套餐",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_FEATURES_TITLE": "极影加速套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比，快速定位适合自己的订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按实际用量挑选。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台，多人共用可选团队版。",
+          "AI_FEATURE_TITLE_3": "按线路需求选择",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，按场景匹配。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，参考客户端文档完成订阅导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按需选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用极影加速。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量与设备数量，在基础版、旗舰版、团队版中选定一档并完成支付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本，并核对所选套餐支持的同时在线设备数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅链接，完成节点选择后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松起步",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量选定套餐，按客户端文档完成订阅导入即可使用极影加速。",
+          "AI_FAQ_TITLE": "极影加速常见问题",
+          "AI_FAQ_QUESTION_1": "极影加速基础版适合什么用户？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合个人手机或电脑日常使用，年付价格为 ¥150。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么用处？",
+          "AI_FAQ_ANSWER_2": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏或实时交互场景，同时支持 5 台设备和 300GB 流量。",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 专属高带宽节点与专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "极影加速可以按年付费吗？",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供年付选项：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_5": "更换设备后订阅还能继续用吗？",
+          "AI_FAQ_ANSWER_5": "订阅与套餐绑定，设备数量上限内可在不同设备上配置使用。超出上限需升级套餐或减少同时在线设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lhwld.cn",
+    "host": "lhwld.cn"
+  },
+  "file_hashes": {
+    "index.html": "ec09c1e72acd3419d816f31b4eb1192a72efbcd2f25b68bd63008f961f3cd4b8",
+    "sitemap.xml": "d2e4f3753f299bd1a17fde7e9463f1b2e719481e89d47b4a173298a14a886157",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7dc433449bd2e79990c4d54439141182554b80cbbee4dfb4b9ad26bc11dcd2c0",
+    "robots.txt": "4a3682e269abce8749de52a3190560c880723cb30ea8adfa0d897908c97f6162",
+    "6a8f261e276819db1773c671e6947c0d.txt": "7464515a38b9c88358be780ac299cb63928c454f0a3ca362244b54038885764a"
+  },
+  "revision": "453a30fb3b593e94484101bc1e308a3f6d98b87430119f44f197e896474dc619"
+}
